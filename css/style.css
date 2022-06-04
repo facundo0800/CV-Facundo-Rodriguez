@@ -1,0 +1,98 @@
+/* Cabecera */
+header {
+    background: url("/img/fondo.jpg"); background-size: cover;
+    
+}
+
+/* Imagen personal */
+img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+.imagen-personal {
+    height: 200px ; 
+    text-align: center;
+}
+
+/* Textos */
+ .gris-oscuro {
+     background-color: #C4C4C4;
+     text-align: center; color: #633063;
+ }
+ .gris-oscuro2 {
+    background-color: #C4C4C4; 
+    color: #633063;
+ }
+ .letras {
+    font-family: 'Tiro Kannada', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 8px;
+ }
+ .titulo-principal {
+    font-family: 'Tiro Kannada', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 8px;
+ }
+ .letras-basicas {
+    font-family: 'Tiro Kannada', serif; 
+ }
+
+.albumes {
+    font-family: 'Fjalla One', sans-serif;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 23px;
+    letter-spacing: 8px;
+ }
+
+
+ /* Textos en negrita*/
+ .negrita {
+     font-weight: 700;
+ }
+
+
+ /* Footer */
+ .footer {
+     background-color: #633063;
+ }
+ .texto-blanco {
+     color: white;
+ }
+
+ .git {
+     width: 21px;
+ }
+
+ .link  {
+     color: black;
+ }
+ 
+
+ /* Acomodar */
+ .center {
+    text-align: center;
+}
+
+
+/* imagenes */
+.syre {
+    width: 380px;
+}
+
+.desde-el-fin-del-mundo {
+    width: 600px;
+}
+
+.currents {
+    width: 480px;
+}
+
+/* Volver al home */
+.volver {
+    color: #633063;
+}
